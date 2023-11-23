@@ -50,12 +50,12 @@ My research interest includes ultrafast laser and sensor. I have published 3 pap
 # 🔍 RESEARCH PROJECTS
 - *01/2023-03/2023*, An overview of Light Sheet Fluorescence Microscopy (LSFM) | Leader                                
   Supervisor: Professor Dunsby, Christopher W
-  ·The principle and advantages of LSFM, its difference with ordinary microscope and confocal microscope are analyzed and studied, and several ways to improve and optimize the structure of LSFM are analyzed in detail at present
+  ·The principle and advantages of LSFM, its difference with ordinary microscope and confocal microscope are analyzed and studied, and several ways to improve and optimize the structure of LSFM are analyzed in detail at present//
   ·Developed the ability to independently review English literature and summarize it, and I have learned to distribute tasks in a reasonable manner in my weekly reports and to do them on time, and to communicate well with my supervisor
   
 - *01/2023-03/2023*, Optical Trapping system design| Deputy Leader                                                                        
   Supervisor: Professor Neil, Mark A A and Doctor Weir, Kenny
-  ·In collaboration with the group, an optical tweezer system was perfectly constructed using a lens, laser, and microscope to capture polystyrene particles of 5 microns in diameter
+  ·In collaboration with the group, an optical tweezer system was perfectly constructed using a lens, laser, and microscope to capture polystyrene particles of 5 microns in diameter//
   ·Be able to reasonably analyze the reasons for failure and directions for improvement during the build process, and provide ideas and suggestions for optimizing the system after a successful test
   
 - *06/2023-09/2023*, Laser filamentation and air lasing | Leader                                                                                 
