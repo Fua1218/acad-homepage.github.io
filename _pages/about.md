@@ -19,7 +19,7 @@ redirect_from:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes ultrafast laser and sensor. I have published 3 papers at the core SCI with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=nowWSuEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes ultrafast laser and sensor. I have published papers at the core SCI with total <a href='https://scholar.google.com/citations?user=nowWSuEAAAAJ'>google scholar citations (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=nowWSuEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 📝 Publications 
 
@@ -49,13 +49,13 @@ My research interest includes ultrafast laser and sensor. I have published 3 pap
 
 # 🔍 RESEARCH PROJECTS
 - *01/2023-03/2023*, An overview of Light Sheet Fluorescence Microscopy (LSFM) | Leader                                
-  Supervisor: Professor Dunsby, Christopher W
-  ·The principle and advantages of LSFM, its difference with ordinary microscope and confocal microscope are analyzed and studied, and several ways to improve and optimize the structure of LSFM are analyzed in detail at present//
+  Supervisor: Professor Dunsby, Christopher W  
+  ·The principle and advantages of LSFM, its difference with ordinary microscope and confocal microscope are analyzed and studied, and several ways to improve and optimize the structure of LSFM are analyzed in detail at present  
   ·Developed the ability to independently review English literature and summarize it, and I have learned to distribute tasks in a reasonable manner in my weekly reports and to do them on time, and to communicate well with my supervisor
   
 - *01/2023-03/2023*, Optical Trapping system design| Deputy Leader                                                                        
   Supervisor: Professor Neil, Mark A A and Doctor Weir, Kenny
-  ·In collaboration with the group, an optical tweezer system was perfectly constructed using a lens, laser, and microscope to capture polystyrene particles of 5 microns in diameter//
+  ·In collaboration with the group, an optical tweezer system was perfectly constructed using a lens, laser, and microscope to capture polystyrene particles of 5 microns in diameter  
   ·Be able to reasonably analyze the reasons for failure and directions for improvement during the build process, and provide ideas and suggestions for optimizing the system after a successful test
   
 - *06/2023-09/2023*, Laser filamentation and air lasing | Leader                                                                                 
